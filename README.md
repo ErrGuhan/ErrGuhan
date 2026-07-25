@@ -14,14 +14,14 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=orange)
+![](https://komarev.com/ghpvc/?username=ErrGuhan&style=for-the-badge&color=orange)
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=00E5FF"/>
+<a href="https://github.com/ErrGuhan">
+<img src="https://img.shields.io/github/followers/ErrGuhan?style=for-the-badge&logo=github&color=00E5FF"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=FF7A00"/>
+<a href="https://github.com/ErrGuhan">
+<img src="https://img.shields.io/github/stars/ErrGuhan?style=for-the-badge&logo=github&color=FF7A00"/>
 </a>
 
 </div>
@@ -32,21 +32,19 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/guhan-murugaiyan)">
 <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:mguhan6383@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-FF7A00?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://portfolio.com">
+<a href="https://[portfolio.com](https://guhan-portfolio-bdzq.vercel.app/)">
 <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://twitter.com/YOUR_TWITTER">
-<img src="https://img.shields.io/badge/Twitter-00E5FF?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+
 
 </div>
 
@@ -154,13 +152,13 @@ I love exploring:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF7A00"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ErrGuhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF7A00"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=ErrGuhan&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 <br><br>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErrGuhan&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -170,7 +168,7 @@ I love exploring:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ErrGuhan&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -180,7 +178,7 @@ I love exploring:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/ErrGuhan/ErrGuhan/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -225,15 +223,15 @@ I love exploring:
 
 <div align="center">
 
-<a href="https://leetcode.com/YOUR_USERNAME">
+<a href="https://leetcode.com/ErrGuhan">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/YOUR_USERNAME">
+<a href="https://www.hackerrank.com/ErrGuhan">
 <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://codeforces.com/profile/YOUR_USERNAME">
+<a href="https://codeforces.com/profile/ErrGuhan">
 <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
@@ -245,7 +243,7 @@ I love exploring:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0D1117&color=00E5FF&line=FF7A00&point=FFFFFF&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ErrGuhan&theme=tokyo-night&bg_color=0D1117&color=00E5FF&line=FF7A00&point=FFFFFF&hide_border=true"/>
 
 </div>
 
@@ -265,13 +263,13 @@ I love exploring:
 
 <div align="center">
 
-📧 **Email:** YOUR_EMAIL
+📧 **Email:** mguhan6383@gmail.com
 
-💼 **LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN
+💼 **LinkedIn:**(https://www.linkedin.com/in/guhan-murugaiyan/)
 
-🌐 **Portfolio:** https://YOUR_PORTFOLIO
+🌐 **Portfolio:** (https://guhan-portfolio-bdzq.vercel.app/)
 
-💻 **GitHub:** https://github.com/YOUR_USERNAME
+💻 **GitHub:** https://github.com/ErrGuhan
 
 </div>
 
