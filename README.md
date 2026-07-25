@@ -1,25 +1,27 @@
 <!-- ========================================================= -->
-<!--                 FUTURISTIC AI + BIOINFORMATICS             -->
+<!--               FUTURISTIC AI + BIOINFORMATICS              -->
 <!-- ========================================================= -->
 
 <div align="center">
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Guhan M
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=850&lines=AI+Engineer+%7C+Bioinformatics+Enthusiast;Full+Stack+Developer;Machine+Learning+Researcher;Open+Source+Contributor;Always+Learning+Something+New+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1200&color=00E5FF&center=true&vCenter=true&width=850&lines=AI+Engineer;Bioinformatics+Enthusiast;Full+Stack+Developer;Machine+Learning+Explorer;Always+Learning+🚀"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00E5FF,50:0D1117,100:FF7A00&text=Artificial%20Intelligence%20%E2%9C%95%20Bioinformatics&fontColor=ffffff&fontAlign=50&fontSize=42&animation=fadeIn"/>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00E5FF,50:0D1117,100:FF7A00&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontAlign=50&fontSize=42&animation=fadeIn"/>
 
 <br>
 
 ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=orange)
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=00E5FF">
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=00E5FF"/>
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=FF7A00">
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=FF7A00"/>
 </a>
 
 </div>
@@ -34,10 +36,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://twitter.com/YOUR_TWITTER">
-<img src="https://img.shields.io/badge/Twitter-00E5FF?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
 <a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Gmail-FF7A00?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -46,78 +44,91 @@
 <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
+<a href="https://twitter.com/YOUR_TWITTER">
+<img src="https://img.shields.io/badge/Twitter-00E5FF?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-# 🧬 About Me
+# 👨‍💻 About Me
 
 <table>
+
 <tr>
 
-<td width="58%">
+<td width="60%">
 
-### 🚀 Who Am I?
+Hi! I'm **Guhan M**, an AI enthusiast who enjoys building intelligent software and solving real-world problems with technology.
 
-```yaml
-Name: Guhan M
-Role: AI Engineer
-Focus:
-  - Artificial Intelligence
-  - Machine Learning
-  - Bioinformatics
-  - Deep Learning
-  - Full Stack Development
-Currently Learning:
-  - LLMs
-  - RAG Systems
-  - Generative AI
-  - Genomics AI
-Interests:
-  - Open Source
-  - Research
-  - Hackathons
-  - Building AI Products
-```
+I love exploring:
 
-### ⚡ Fun Fact
+- 🤖 Artificial Intelligence
+- 🧬 Bioinformatics
+- 💻 Full Stack Development
+- 📊 Machine Learning
+- ☁ Cloud Technologies
 
-> "Coding DNA and Coding Software are more similar than you think."
+### 🌱 Currently Learning
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Generative AI
+- AI for Genomics
+
+### 🎯 Interests
+
+- Open Source
+- Research
+- Hackathons
+- Building AI Projects
+
+> **"Build. Learn. Share. Repeat."**
 
 </td>
 
 <td>
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="300"/>
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-# 🤖 AI Tech Stack
+# 💻 Tech Stack
 
 <div align="center">
 
-### Programming Languages
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,go,r,rust"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,go,r"/>
+
+<br><br>
 
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap,vite"/>
 
+<br><br>
+
 ### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi"/>
 
-### Database
+<br><br>
+
+### Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase"/>
 
-### AI & Data Science
+<br><br>
+
+### AI & Machine Learning
 
 <img src="https://img.shields.io/badge/TensorFlow-FF7A00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
@@ -129,6 +140,8 @@ Interests:
 
 <img src="https://img.shields.io/badge/HuggingFace-FFB000?style=for-the-badge&logo=huggingface"/>
 
+<br><br>
+
 ### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman,anaconda"/>
@@ -137,29 +150,17 @@ Interests:
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
-<table>
-<tr>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF7A00"/>
 
-<td>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF7A00"/>
+<br><br>
 
-</td>
-
-<td>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=FF7A00&fire=FF7A00&currStreakLabel=00E5FF"/>
-
-</td>
-
-</tr>
-</table>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -187,14 +188,14 @@ Interests:
 
 # 🚀 Featured Projects
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🧬 AI Genome Analyzer | Deep Learning for DNA Sequence Analysis | Python • TensorFlow |
-| 🤖 Medical AI Assistant | Healthcare LLM Chatbot | LangChain • OpenAI |
-| 🌐 Portfolio Website | Personal AI Portfolio | React • Next.js |
-| 🧠 Disease Prediction | ML Disease Detection | Python • Scikit-learn |
-| 📊 Data Visualization | Interactive Analytics Dashboard | React • D3.js |
-| ☁ Cloud AI Platform | AI Deployment System | Docker • AWS |
+| Project | Description |
+|----------|-------------|
+| 🤖 AI Assistant | AI-powered chatbot using LLMs |
+| 🧬 Genome Analyzer | Deep Learning for DNA analysis |
+| 🌐 Portfolio Website | Personal developer portfolio |
+| 📊 Analytics Dashboard | Interactive data visualization |
+| 🧠 Disease Prediction | Machine Learning prediction model |
+| ☁ AI Deployment Platform | Docker-based AI deployment |
 
 ---
 
@@ -209,19 +210,14 @@ Interests:
 
 ---
 
-# 🎯 Achievements
+# 🏅 Highlights
 
-🏆 Hackathon Finalist
-
-🥇 Open Source Contributor
-
-🧠 AI Research Enthusiast
-
-📚 Lifelong Learner
-
-🚀 Built Multiple AI Projects
-
-🌟 GitHub Active Developer
+- 🚀 AI Enthusiast
+- 💻 Full Stack Developer
+- 🧬 Bioinformatics Learner
+- 🌍 Open Source Contributor
+- 📚 Lifelong Learner
+- ⚡ Passionate Problem Solver
 
 ---
 
@@ -237,15 +233,15 @@ Interests:
 <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://open.spotify.com/user/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+<a href="https://codeforces.com/profile/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -255,11 +251,11 @@ Interests:
 
 ---
 
-# 💡 Quote
+# 💬 Quote
 
 <div align="center">
 
-> ### *"Artificial Intelligence learns from data, Bioinformatics deciphers life — together they shape the future."*
+> ### "Artificial Intelligence meets Biology to build the future."
 
 </div>
 
@@ -283,11 +279,13 @@ Interests:
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+## ⭐ Thanks for Visiting!
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350">
+If you like my work, feel free to explore my repositories and leave a ⭐.
 
-### 🚀 Happy Coding!
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A00,100:00E5FF&height=120&section=footer"/>
 
