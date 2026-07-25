@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-* 🎓 2nd-year CSE Student at SVCET.
+* 🎓 3nd-year CSE Student at SVCET.
 * 💡 Passionate about **Agentic AI, Bioinformatics, and Backend Development**.
 * 🔍 Currently diving deeper into **Multi-Agent AI Systems**.
 * 🤝 Community-driven: Active National Service Scheme (NSS) representative.
