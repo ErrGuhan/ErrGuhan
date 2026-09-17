@@ -12,6 +12,13 @@ I build practical products for real users—from campus marketplaces and product
   <a href="https://github.com/ErrGuhan?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
 </p>
 
+<p>
+  <a href="#-what-im-building">What I'm building</a> ·
+  <a href="#-toolbox">Toolbox</a> ·
+  <a href="#-featured-projects">Projects</a> ·
+  <a href="#-say-hello">Contact</a>
+</p>
+
 </div>
 
 ## 🚀 What I'm building
@@ -21,9 +28,26 @@ I build practical products for real users—from campus marketplaces and product
 - **Client platforms** — fast, responsive websites with practical admin workflows
 - **Java problem-solving systems** — algorithms, data structures, and clean OOP practice
 
+<details>
+<summary><strong>🧭 Current focus</strong></summary>
+
+<br />
+
+- [x] Shipping useful full-stack products
+- [x] Improving responsive UI and accessibility
+- [ ] Building more reusable design-system components
+- [ ] Contributing to open source
+
+</details>
+
 > Have an idea, need a second pair of eyes, or want to collaborate? **Open an issue in a project repository or connect with me on LinkedIn.**
 
-## 🧰 My toolbox
+## 🧰 Toolbox
+
+<details open>
+<summary><strong>Click to explore my stack</strong></summary>
+
+<br />
 
 | Area | Tools |
 | --- | --- |
@@ -32,15 +56,33 @@ I build practical products for real users—from campus marketplaces and product
 | Data | PostgreSQL, Supabase, Prisma, SQLite |
 | Delivery | Git, GitHub Actions, Vercel, Docker |
 
+</details>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,express,java,postgres,supabase,prisma,docker,git" alt="Technologies: TypeScript, React, Next.js, Tailwind CSS, Node.js, Express, Java, PostgreSQL, Supabase, Prisma, Docker, and Git" />
+</p>
+
 ## ⭐ Featured projects
 
-| Project | What it demonstrates | Live demo |
+| Project | What it demonstrates | Links |
 | --- | --- | --- |
-| [CampusCart](https://github.com/ErrGuhan/CampusCart01) | Marketplace workflows, authentication, roles, and responsive UI | [Open app](https://campus-cart01.vercel.app) |
-| [PersonalTracker](https://github.com/ErrGuhan/PersonalTracker) | Product-focused full-stack development and data-driven UX | [Open app](https://personaltracker-psi.vercel.app) |
-| [TharikaDecors](https://github.com/ErrGuhan/TharikaDecors) | Client portal, media presentation, and customer request workflows | [Open app](https://tharikadecors.vercel.app) |
-| [JanaFibreGlass](https://github.com/ErrGuhan/JanaFibreGlass) | Business website development and deployment | [Open app](https://janafibre.vercel.app) |
-| [JavaLogicalReasoning](https://github.com/ErrGuhan/JavaLogicalReasoning) | Java fundamentals, algorithms, and logical problem solving | — |
+| **[CampusCart](https://github.com/ErrGuhan/CampusCart01)** | Marketplace workflows, authentication, roles, and responsive UI | [Repo](https://github.com/ErrGuhan/CampusCart01) · [Live app](https://campus-cart01.vercel.app) |
+| **[PersonalTracker](https://github.com/ErrGuhan/PersonalTracker)** | Product-focused full-stack development and data-driven UX | [Repo](https://github.com/ErrGuhan/PersonalTracker) · [Live app](https://personaltracker-psi.vercel.app) |
+| **[TharikaDecors](https://github.com/ErrGuhan/TharikaDecors)** | Client portal, media presentation, and customer request workflows | [Repo](https://github.com/ErrGuhan/TharikaDecors) · [Live app](https://tharikadecors.vercel.app) |
+| **[JanaFibreGlass](https://github.com/ErrGuhan/JanaFibreGlass)** | Business website development and deployment | [Repo](https://github.com/ErrGuhan/JanaFibreGlass) · [Live app](https://janafibre.vercel.app) |
+| **[JavaLogicalReasoning](https://github.com/ErrGuhan/JavaLogicalReasoning)** | Java fundamentals, algorithms, and logical problem solving | [Open repository](https://github.com/ErrGuhan/JavaLogicalReasoning) |
+
+<details>
+<summary><strong>💡 Want to know how I build?</strong></summary>
+
+<br />
+
+1. Understand the user and define the smallest useful version.
+2. Design a clear, responsive experience before adding complexity.
+3. Build with maintainable components and practical data models.
+4. Ship, gather feedback, and iterate.
+
+</details>
 
 ## 🤝 Collaboration
 
@@ -69,5 +111,7 @@ If you find something useful here, ⭐ star it, leave feedback in an issue, or s
 The best ways to reach me are [LinkedIn](https://www.linkedin.com/in/guhan-murugaiyan/) or a project issue. I'm always happy to discuss product ideas, implementation trade-offs, and useful resources.
 
 <div align="center">
+  <a href="https://github.com/ErrGuhan?tab=followers"><img src="https://img.shields.io/github/followers/ErrGuhan?label=Follow%20along&style=for-the-badge&logo=github" alt="Follow ErrGuhan on GitHub" /></a>
+  <br /><br />
   <sub>Building in public, learning continuously, and shipping with purpose.</sub>
 </div>
